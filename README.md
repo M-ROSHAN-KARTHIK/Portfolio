@@ -1,3 +1,3 @@
 # Portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/M-ROSHAN-KARTHIK/Portfolio)
+A Student's portfolio website built using React, TypeScript, and Tailwind CSS, showcasing my projects, technical skills, machine learning interests, and web development journey.
